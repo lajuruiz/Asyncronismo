@@ -1,0 +1,18 @@
+{
+  "name": "asyncronismo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "notas.js",
+  "scripts": {
+    "callback": " node src/callbacks/index.js",
+    "callback:challenge": "node src/callbacks/challenge.js",
+    "promise": "node src/promesas/index.js",
+    "promise:Challenge": "node src/promesas/challenge.js"
+  },
+  "keybords": "",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
